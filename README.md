@@ -4,7 +4,7 @@
 - 🌱  I’m currently learning More about ReactJS 
 - 💬  Ask me about absolutely anything!
 - 📄 Know about my [experiences](https://resume.creddle.io/resume/c91vwd9g28l)
-- 📫  How to reach me: [Habon's LinkedIN](https://www.linkedin.com/in/habon-h/)
+- 📫  How to reach me: [LinkedIN](https://www.linkedin.com/in/habon-h/)
 - 😄  Pronouns: She/Her
 - ⚡ Fun fact: I enjoy watercolor painting 🎨 and I recently became a fan of the Matrix sequel 👾
 
