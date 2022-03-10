@@ -1,6 +1,5 @@
 ### Hi there, I'm Habon🧏🏽‍♀️
 - 👩🏾‍💻  A Junior Full-Stack Web Developer, with a preference in Front-End Web Development
-- 🔭  I’m currently working on ReactJS Weather App
 - 🌱  I’m currently developing my skills as a Front-End Web Developer
 - 💬  Ask me about absolutely anything!
 - 📄 Know about my [experiences](https://resume.creddle.io/resume/c91vwd9g28l)
