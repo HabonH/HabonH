@@ -5,7 +5,7 @@
 - 📄 Know about my [experiences](https://resume.creddle.io/resume/c91vwd9g28l)
 - 📫  How to reach me: [LinkedIN](https://www.linkedin.com/in/habon-h/)
 - 😄  Pronouns: She/Her
-- ⚡ Fun fact: I enjoy watercolor painting 🎨 and I recently became a fan of the Matrix sequel 👾
+- ⚡ Fun fact: I enjoy watercolor painting 🎨 and I recently became a Matrix fan 👾
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
